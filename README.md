@@ -233,4 +233,4 @@ This repository serves as the official landing page for Chess. The software is d
 **Get the most recent version of Chess today!**
 
 ---
-**Last updated:** 2026-09-13 11:29:14 UTC
+**Last updated:** 2026-09-13 15:58:25 UTC
